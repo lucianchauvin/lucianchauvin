@@ -10,5 +10,5 @@
 </div>
 
 
-![Alt Text](https://github.com/lucianchauvin/StrangeAttractors/blob/main/halvorsenAttractor.gif)
+![Alt Text](https://github.com/lucianchauvin/StrangeAttractors/blob/master/Halvorsen/halvorsenAttractor.gif)
 Gif from project: https://github.com/lucianchauvin/StrangeAttractors
